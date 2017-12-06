@@ -2,9 +2,9 @@ const mysql = require('mysql2');
 const helpers = require('./../helpers');
 
 const dbcreds = {
-    host: '138.197.37.87',
-    user: 'wwwuser',
-    password: 'wwwuser',
+    host: 'localhost',
+    user: 'root',
+    password: '',
     database: 'demo-cms'
 };
 
